@@ -36,7 +36,8 @@ class Container(ABC):
         """
 
     @abstractmethod
-    def remove(self, *items):
+    def remove(self, *items
+              ):
         """Abstract method to remove items from Container.
 
         Parameters
