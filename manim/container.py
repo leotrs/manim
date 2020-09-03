@@ -27,7 +27,7 @@ class Container(ABC):
 
     @abstractmethod
     def add(self, *items):
-        """Abstract method to add items to Container.
+        """Abstract method     to add items to Container.
 
         Parameters
         ----------
